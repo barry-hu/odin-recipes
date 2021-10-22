@@ -1,0 +1,13 @@
+#title {
+    color: rgb(255,0,0);
+    font-weight:bold;
+    text-align:center;
+    font-size:75px;
+}
+
+.food {
+    background-color: rgb(255,100,40,0.4);
+    font-size:24px;
+    display:flex;
+    margin:auto;
+}
