@@ -5,17 +5,19 @@
     font-size:75px;
 }
 
-.mexican.food {
+.mexican.food:hover {
     background-color: rgb(0,255,0,0.5)
 }
 
-.american.food {
+.american.food:hover {
     background-color: rgb(0,0,255,0.4);
 }
 
-
-.food {
+.chinese.food:hover {
     background-color: rgb(255,100,40,0.4);
+}
+.food {
+    background-color:rgb(255,255,0);
     font-size:24px;
     display:flex;
     margin:auto;
