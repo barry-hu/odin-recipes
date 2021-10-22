@@ -1,0 +1,10 @@
+#title {
+    text-align:center;
+    color: rgb(0,255,0,0.5);
+    font-size:50px;
+}
+
+#steak-pic {
+    margin:auto;
+    display:block;
+}
